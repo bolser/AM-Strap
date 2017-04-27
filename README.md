@@ -14,6 +14,7 @@ A DRY modular styling framework built with SCSS using attribute modules. It is r
 ## Install
 
     bower install bolser-am-strap
+    npm install bolser-am-strap
     
 Import at the start of your SCSS
 
